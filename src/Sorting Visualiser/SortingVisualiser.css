@@ -1,0 +1,16 @@
+.array-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 70vw;
+  position: relative;
+  margin: auto;
+}
+
+.array-bar {
+  /* background: #f05454; */
+  background: #508991;
+  /* width: 3px; */
+  margin: 0px 1px;
+  border-radius: 3px;
+}
